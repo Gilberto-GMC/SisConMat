@@ -9,6 +9,9 @@ configurações:
 Na pasta config do projeto, acesse conexao.php e altere os dados:
 
 $mysql_servidor = "localhost"; // Seu servidor de mysql, normalmente é localhost.
+
 $mysql_usuario = "root"; // Seu usuario no mysql.
+
 $mysql_senha = ""; // Sua senha no mysql.
+
 $mysql_database= "sisconmat"; // Seu banco de dados.
