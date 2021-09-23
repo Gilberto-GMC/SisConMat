@@ -15,3 +15,8 @@ $mysql_usuario = "root"; // Seu usuario no mysql.
 $mysql_senha = ""; // Sua senha no mysql.
 
 $mysql_database= "sisconmat"; // Seu banco de dados.
+
+
+PARA REALIZAR O LOGIN NO SISTEMA:
+USUARIO - admin
+SENHA - admin
